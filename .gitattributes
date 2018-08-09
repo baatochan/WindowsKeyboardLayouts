@@ -1,0 +1,2 @@
+# Don't count files under AltLatin/about to language statistics
+AltLatin/about/* linguist-vendored
